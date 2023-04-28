@@ -1,0 +1,11 @@
+.pages {
+  width: 500px;
+  height: 300px;
+  display: flex;
+}
+
+.pages > div {
+  flex: 1;
+  border: 1px solid darkgreen;
+  padding: 10px;
+}
